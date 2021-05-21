@@ -40,5 +40,3 @@ X_train.shape
 
 
 #add comment abcccc
-#add comment abcccc
-#add comment abcccc
